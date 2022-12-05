@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveTimeout": 5000,
+  "ruby.rubocop.executePath": "/Users/renemercadel/environment/hello_app/.rubocop.yml",
+  "ruby.format": "rubocop"
+}
